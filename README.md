@@ -4,6 +4,8 @@
 > 
 > 一个最简单的Vuex示例: 组件与Vuex 管理状态, 一个计数器例子
 
+:smirk: Haha
+
 ## Build Setup
 
 ``` bash
